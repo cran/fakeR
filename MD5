@@ -1,0 +1,13 @@
+b33dde83fd6873b4fda629e695bb2905 *DESCRIPTION
+faecbfc7c98b59ef9f7a68acb9023fe8 *NAMESPACE
+71772cfa71b803846de5fccf15c94398 *R/fakeR.R
+8893b1da9689e1cd1a84b09644618a7e *build/partial.rdb
+92accf4de823fee50419dc91699f9baf *build/vignette.rds
+e2da06bf5754396c195d050619ecffde *inst/doc/my-vignette.R
+062a1569b4f4e834109ed5130d2e13e5 *inst/doc/my-vignette.Rmd
+547f7a9d071e840c1a06638965ecd659 *inst/doc/my-vignette.html
+f8eeda60924e0835ae92c82240a4ade5 *man/fakeR-package.Rd
+174d534750d747020c38e5a8279b5cde *man/simulate_dataset.Rd
+da2987e31e7c64e30ae044bdb82c65ab *man/simulate_dataset_ts.Rd
+7cefb6925991b92fe1fa4a7a992963d8 *tests/testthat.R
+062a1569b4f4e834109ed5130d2e13e5 *vignettes/my-vignette.Rmd
